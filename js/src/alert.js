@@ -11,6 +11,7 @@ import BaseComponent from './base-component.js'
 import { enableDismissTrigger } from './util/component-functions.js'
 
 /**
+ *
  * Constants
  */
 
