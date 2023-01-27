@@ -3,7 +3,7 @@
  * Bootstrap (v5.3.0-alpha1): alert.js
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
- * 新年快乐,2023年1月27号,增加了一个规则
+ * 新年快乐,2023年1月27号,pull request到main分支哈哈哈
  */
 
 import { defineJQueryPlugin } from './util/index.js'
@@ -13,7 +13,7 @@ import { enableDismissTrigger } from './util/component-functions.js'
 
 /**
  *
- * Constants
+ * Constants hahhafkahfkhalkhfka
  */
 
 const NAME = 'alert'
