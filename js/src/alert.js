@@ -13,7 +13,7 @@ import { enableDismissTrigger } from './util/component-functions.js'
 
 /**
  *
- * Constants feature分支1212hfhajhnhiiiiiiiii
+ * Constants feature分支1212hfh1ajhnhiiiiiiiii
  */
 
 const NAME = 'alert'
